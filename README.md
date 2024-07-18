@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/rajdeepvaghela/CircularList)](https://github.com/rajdeepvaghela/CircularList/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-![image](https://github.com/user-attachments/assets/89774f90-1064-4a94-b0f1-7e9bc26c274c)
+![Screenshot 2024-07-19 at 1 12 29 AM](https://github.com/user-attachments/assets/b8177019-5732-430f-a136-7036e7247bc6)
 
 ## Installation
 Add it in your root build.gradle or settings.gradle at the end of repositories:
