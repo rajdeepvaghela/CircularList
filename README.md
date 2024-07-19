@@ -5,6 +5,8 @@
 
 ![Screenshot 2024-07-19 at 1 12 29 AM](https://github.com/user-attachments/assets/b8177019-5732-430f-a136-7036e7247bc6)
 
+Vertical scrollable value picker for Jetpack Compose. It has two components `InfiniteCircularList` and `CircularList`.
+
 ## Installation
 Add it in your root build.gradle or settings.gradle at the end of repositories:
 ```gradle
