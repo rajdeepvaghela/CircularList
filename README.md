@@ -1,4 +1,4 @@
-# Vertical Stepper
+# Circular List
 [![Release](https://jitpack.io/v/com.github.rajdeepvaghela/CircularList.svg)](https://jitpack.io/#com.github.rajdeepvaghela/CircularList)
 [![Release](https://img.shields.io/github/v/release/rajdeepvaghela/CircularList)](https://github.com/rajdeepvaghela/CircularList/releases)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
